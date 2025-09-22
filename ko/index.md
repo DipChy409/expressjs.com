@@ -38,8 +38,7 @@ app.listen(port, () => {
 
 <section id="announcements">
   {% include announcement.html %}
-</section>
-{% endif %}
+</section>{% endif %}
 
 <section id="intro">
   <div id="boxes" class="clearfix">

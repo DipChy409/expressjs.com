@@ -8,7 +8,7 @@ static_files: 정적 파일
 examples: 더 많은 예시
 faq: 자주 묻는 질문(FAQ)
 # Guide
-guide: Gu안내서ide
+guide: 안내서
 routing: 라우팅
 writing_middleware: 미들웨어 작성
 using_middleware: 미들웨어 사용

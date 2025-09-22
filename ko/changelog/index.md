@@ -63,7 +63,7 @@ The 5.0.1 patch release includes one security fix:
 
 {: id="5.0.0"}
 
-Check the [migration guide](/{{page.lang}}/guide/migrating-5.html) with all the changes in this new version of Express.
+/{{page.lang}}/guide/migrating-5.html
 
 ## Express v4
 
